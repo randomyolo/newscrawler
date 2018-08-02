@@ -92,3 +92,6 @@ ROBOTSTXT_OBEY = True
 #Export as CSV Feed
 FEED_FORMAT = "csv"
 FEED_URI = "reddit.csv"
+
+[settings]
+default = ourfirstscraper.settings
